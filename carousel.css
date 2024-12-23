@@ -6,7 +6,7 @@ body {
   padding-top: 3rem;
   padding-bottom: 3rem;
   color: rgb(var(--bs-tertiary-color-rgb));
-  text-aling: justify;
+  text-align: justify;
 }
 
 
@@ -82,6 +82,6 @@ body {
 @media (min-width: 62em) {
   .featurette-heading {
     margin-top: 7rem;
-    text-aling:justify;
+    text-align:justify;
   }
 }
